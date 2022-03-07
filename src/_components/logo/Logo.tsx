@@ -2,7 +2,7 @@ import React from "react";
 import "./Logo.scss";
 
 const Logo: React.FC = () => (
-  <div className="Logo">
+  <div className="Logo" id="logo">
     <div className="Logo__app-name">
       TODO RAKENDUS
       <br />
